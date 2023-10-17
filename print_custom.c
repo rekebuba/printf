@@ -63,7 +63,7 @@ int print_rev(va_list l, flags_t *f)
 	{
 		return (1);
 	}
-	print_rev (s + 1);
+	print_rev(s + 1);
 	_putchar(*s);
 	return (i);
 }
