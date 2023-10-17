@@ -1,3 +1,3 @@
-ubeke Ibrahim
+ke Ibrahim
 
 happy coding.
