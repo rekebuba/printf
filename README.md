@@ -7,7 +7,7 @@ this project is about creating our own printf function.
 3. task-3: handle u, o, x, X conversion specifiers.
 4. task-4: call write using local buffer 1024
 5. task-5: handle s conversion specifier.
-6. task-6: handle p conversion spersifier.
+6. task-6: handle p conversion specifier.
 7. task-7: handle +, space and # non-custom conversion specifiers.
 8. task-8: hanlde l and h conversion specifiers.
 9. task-9: handle the field width for non-custom conversion specifiers.
