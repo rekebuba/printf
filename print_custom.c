@@ -47,7 +47,7 @@ int print_rev(va_list l, flags_t *f)
 	char *s = va_arg(l, char *);
 
 	(void)f;
-	if (!s)
+	/*if (!s)
 		s = "(null)";
 
 	while (s[i])
@@ -55,8 +55,14 @@ int print_rev(va_list l, flags_t *f)
 
 	for (j = i - 1; j >= 0; j--)
 		_putchar(s[j]);
-
-	return (i);
+	*/
+	if(*s == 0)
+	{
+		return;
+	}
+	print_rev(s+1);
+	_putchar(*s);
+	return (*s);
 }
 
 /**
