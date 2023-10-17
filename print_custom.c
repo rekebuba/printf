@@ -59,11 +59,11 @@ int print_rev(va_list l, flags_t *f)
 	*/
 	while (s[i])
 		i++;
-	if(*s == 0)
+	if (*s == 0)
 	{
-		return 1;
+		return (1);
 	}
-	print_rev(s+1);
+	print_rev (s + 1);
 	_putchar(*s);
 	return (i);
 }
