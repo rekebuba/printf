@@ -1,3 +1,3 @@
-i   2. Abubeke Ibrahim
+ 2. Abubeke Ibrahim
 
 happy coding.
