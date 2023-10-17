@@ -2,7 +2,7 @@
 - Group Project completed by Khawla & Abubaker
 this project is about creating our own printf function. 
 0. task-0: write a function that produces output according to a format.
-1. task-1: handle d and i conversion spercifers.
+1. task-1: handle d and i conversion specifiers.
 2. task-2: handle b custom conversion specifiers.
 3. task-3: handle u, o, x, X conversion specifiers.
 4. task-4: call write using local buffer 1024
